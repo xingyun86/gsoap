@@ -1,0 +1,1 @@
+下载gsoap-vendor-cmake.zip，解压到当前目录即可。
